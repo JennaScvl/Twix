@@ -32,7 +32,7 @@ public class OptionsMenu : MonoBehaviour {
 			if(blah.receivingdata)showConnectInfo=false;
 			showMenu = !showMenu;
 		}
-	}
+    }
 
 	void OnGUI()
 	{
@@ -189,8 +189,8 @@ public class OptionsMenu : MonoBehaviour {
 				}
 			}
 
-			if(blah.ip3DS!="")
-			{
+			//if(blah.ip3DS!="")
+			//{
 				if(showTryIPButton)
 				{
 					blah.ip3DS=GUI.TextField(new Rect(115,150,100,20),blah.ip3DS);
@@ -201,7 +201,7 @@ public class OptionsMenu : MonoBehaviour {
 						showTryIPButton = false;
 					}
 				}
-			}
+			//}
 		}
 
 		GUI.DragWindow(new Rect(0,0,10000,10000));
