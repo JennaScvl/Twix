@@ -102,3 +102,7 @@ Q: Why did you make Twix when there's similar programs available?
 
 
 A: This question was mainly asked at the very start, when I hadn't added all the extra features I've developed. The main reason is that I wanted to up the ante. I wanted better and knew I could do better. I also hope that Twix inspires the others to do better.
+
+Q: Do you have contact info?
+
+A: .kallisti (with the .) on Discord, or @berrybunny.bsky.social on bluesky.
